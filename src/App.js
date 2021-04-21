@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './Header'
 
-let name = 'Raphael'
+let name = 'Elijah Raphael'
 
 function App() {
   return (
